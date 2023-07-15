@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
+<<<<<<< HEAD
 
     /*
     Escreva um algoritmo que leia o nome de um vendedor, o seu salário fixo e o total de vendas efetuadas
@@ -8,6 +9,8 @@ public class Main {
     efetuadas, informar o seu nome, o salário fixo e salário no final do mês;
     */
 
+=======
+>>>>>>> 3ae9446aeb12a8247f8162b428f9663007f89c51
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
